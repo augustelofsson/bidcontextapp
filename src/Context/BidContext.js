@@ -6,7 +6,7 @@ const API_URL = 'http://nackowskis.azurewebsites.net/api/';
 const GROUP_NUM = 2230;
 const url = "http://nackowskis.azurewebsites.net/api/bud/32/1"
 const BidContext = createContext();
-const test1 = "";
+
 
 
 
